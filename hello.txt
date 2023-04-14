@@ -1,8 +1,5 @@
 abc
 def
 ghi
-<<<<<<< HEAD
 werfgh
-=======
 books
->>>>>>> bb17c3b17079fcd73a318e7e57d8a2c0eb733c57
